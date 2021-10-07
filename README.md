@@ -1,0 +1,1 @@
+Creating a recipe project based on instruction provided by The Odin Project. Website will include a main index page, containing links to recipes.
