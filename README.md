@@ -9,3 +9,4 @@ the creation of a basic recipe website. Website will consist of:
 - links to recipe pages
 
 Project will not include CSS
+-Update: Project now includes CSS-
